@@ -8,8 +8,7 @@ do.devicecheck=1
 do.cleanup=1
 do.cleanuponabort=1
 device.name1=selene
-device.name2=selenes
-device.name3=eos
+device.name2=eos
 '; } # end properties
 
 
