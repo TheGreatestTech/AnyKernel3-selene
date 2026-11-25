@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Zyte Kernel by TheGreatestTech1 for Redmi 10 Prime(selene)
+kernel.string=Zyte Kernel by TheGreatestTech1 for Redmi 10 / 2022 / Prime (selene)
 do.devicecheck=1
 do.cleanup=1
 do.cleanuponabort=1
